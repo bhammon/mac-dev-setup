@@ -100,6 +100,7 @@ Now we have a terminal we can work with!
 ## Homebrew
 
 Package managers make it so much easier to install and update applications (for Operating Systems) or libraries (for programming languages). The most popular one for macOS is [Homebrew](http://brew.sh/).
+
 More good Homebrew info: https://dev.to/code2bits/homebrew---basics--cheatsheet-3a3n
 
 ### Install
