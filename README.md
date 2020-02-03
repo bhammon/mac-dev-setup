@@ -219,7 +219,7 @@ On a Mac, it is important to remember to add `.DS_Store` (a hidden macOS system 
 
 ```
 cd ~
-curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.gitignore
+curl -O https://raw.githubusercontent.com/bhammon/mac-dev-setup/master/.gitignore
 git config --global core.excludesfile ~/.gitignore
 ```
 
