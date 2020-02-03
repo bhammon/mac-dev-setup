@@ -50,7 +50,7 @@ In **Apple Icon > System Preferences**:
 - Security & Privacy > FileVault: Make sure FileVault disk encryption is enabled
 - iCloud: If you haven't already done so during set up, enable Find My Mac
 
-## iTerm2
+## iTerm2 - I did not install iTerm2 - Plan to use standard term for now
 
 ### Install
 
